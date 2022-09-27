@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Classics",
+      "image": "https://www.rd.com/wp-content/uploads/2022/01/classic-books-opener-01-scaled.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Crime",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mystery-novels-1587421717.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Historical fiction",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-historical-fiction-books-3-copy-1657646631.png?crop=0.502xw:1.00xh;0.498xw,0&resize=640:*"
+    },
+    {
+      "id": 1,
+      "name": "Short stories",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2020-04/29/23/asset/0b4004e46777/sub-buzz-138-1588204021-1.jpg"
+    }
+  ],
+  "status": true,
+  "errorCode": "200"
+}
