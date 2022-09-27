@@ -1,1 +1,76 @@
-
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Classics",
+      "image": "https://www.rd.com/wp-content/uploads/2022/01/classic-books-opener-01-scaled.jpg",
+      "books": [
+        {
+"id":"n2",
+"title":"King Of Martial Arts",
+"author":"Xiaomingtaiji",
+"description":"Being kicked out by the sect? Being humiliated by fellows? And being alienated by my lover?None of those could stop me, even if my inner power pool is broken",
+"url":"https:\/\/mangadex.tv\/manga\/manga-nd990460",
+"url_2":"",
+"url_3":"",
+"url_4":"",
+"img":"https:\/\/mangadex.tv\/mangaimage\/manga-nd990460.jpg",
+"genres":"Action, Adventure, Martial Arts",
+"lastest":"234",
+"top":"0",
+"japan":"0"
+},
+{
+"id":"n3",
+"title":"Me! Super Rich!",
+"author":"Feng Lu She",
+"description":"Me! Super rich! summary is updating.",
+"url":"https:\/\/mangadex.tv\/manga\/manga-gx984332",
+"url_2":"",
+"url_3":"",
+"url_4":"",
+"img":"https:\/\/mangadex.tv\/mangaimage\/manga-gx984332.jpg",
+"genres":"drama romance shoujo",
+"lastest":"234",
+"top":"0",
+"japan":"0"
+},
+{
+"id":"m178",
+"title":"Demon God",
+"author":"Jmcomic",
+"description":"Thousands of years ago, the immortal clan and demon clan were battling for the universe. ",
+"url":"https:\/\/mangadex.tv\/manga\/manga-ft982928",
+"url_2":"",
+"url_3":"https:\/\/manhuanelo.com\/read\/demon-god",
+"url_4":"",
+"img":"https:\/\/avt.mkklcdnv6temp.com\/19\/q\/19-1583499865.jpg",
+"genres":"Action - Comedy - Fantasy - Webtoons",
+"lastest":"233",
+"top":"0",
+"japan":"0"
+}
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Crime",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mystery-novels-1587421717.jpg",
+      "books": []
+    },
+    {
+      "id": 1,
+      "name": "Historical fiction",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-historical-fiction-books-3-copy-1657646631.png?crop=0.502xw:1.00xh;0.498xw,0&resize=640:*",
+      "books": []
+    },
+    {
+      "id": 1,
+      "name": "Short stories",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2020-04/29/23/asset/0b4004e46777/sub-buzz-138-1588204021-1.jpg",
+      "books": []
+    }
+  ],
+  "status": true,
+  "errorCode": "200"
+}
