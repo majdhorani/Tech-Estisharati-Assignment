@@ -56,19 +56,84 @@
       "id": 1,
       "name": "Crime",
       "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mystery-novels-1587421717.jpg",
-      "books": []
+      "books": [
+      {
+"id":"18",
+"title":"19 Days",
+"author":"Old Xian",
+"description":" The super cute and funny adventures of a boy and his BFF(best friend forever). You'll find out the names of the main characters after 113 pictures(maybe). Enjoy the manga!",
+"url":"https:\/\/mangadex.tv\/manga\/manga-ep951924",
+"url_2":"https:\/\/mangafast.net\/read\/19-days",
+"url_3":"https:\/\/manhuanelo.com\/read\/19-days",
+"url_4":"",
+"img":"https:\/\/ww2.mangakakalots.com\/mangaimage\/19_days.jpg",
+"genres":"popular comedy Comedy Slice of Life Shounen Ai School life Manhua",
+"lastest":"231",
+"top":"100",
+"japan":"0"
+},
+{
+"id":"115",
+"title":"Martial Arts Reigns",
+"author":"Pojie (\u7834\u754c\u4e92\u52a8)",
+"description":"Ye Ming, the rising star of Family Ye is regarded as a genius among his peer cultivators. But he was schemed by his jealous cousin and the latter cut his meridians, crippled his abilities and hamstrung him ruthlessly",
+"url":"https:\/\/mangadex.tv\/manga\/manga-fd983012",
+"url_2":"https:\/\/mangafast.net\/read\/martial-arts-reigns\/",
+"url_3":"https:\/\/manhuanelo.com\/read\/martial-arts-reigns",
+"url_4":"",
+"img":"https:\/\/mangadex.tv\/mangaimage\/manga-fd983012.jpg",
+"genres":"Action Adventure Supernatural Fantasy webtoon popular",
+"lastest":"231",
+"top":"90",
+"japan":"0"
+}
+      ]
     },
     {
       "id": 1,
       "name": "Historical fiction",
       "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-historical-fiction-books-3-copy-1657646631.png?crop=0.502xw:1.00xh;0.498xw,0&resize=640:*",
-      "books": []
+      "books": [
+      
+{
+"id":"m166",
+"title":"The Immortal Emperor Luo Wuji Has Returned",
+"author":"\u5927\u9b54\u738b\u6f2b\u753b",
+"description":"\r\n\"Disciples and brothers betrayed one after another, and a generation of immortals fell",
+"url":"https:\/\/mangadex.tv\/manga\/manga-kq987825",
+"url_2":"",
+"url_3":"https:\/\/manhuanelo.com\/read\/immortal-god-emperor",
+"url_4":"",
+"img":"https:\/\/avt.mkklcdnv6temp.com\/13\/h\/23-1612007000.jpg",
+"genres":"Action - Fantasy - Romance - Tragedy",
+"lastest":"231",
+"top":"0",
+"japan":"0"
+}
+      ]
     },
     {
       "id": 1,
       "name": "Short stories",
       "image": "https://img.buzzfeed.com/buzzfeed-static/static/2020-04/29/23/asset/0b4004e46777/sub-buzz-138-1588204021-1.jpg",
-      "books": []
+      "books": [
+      
+{
+"id":"133",
+"title":"Cheating Men Must Die",
+"author":"The King (\u65f6\u4ee3\u6f2b\u738b)",
+"description":"One moment oppressing scum yields a moment of satisfaction. Continuously oppressing scum yields continuous satisfaction. Our female main lead, Su L\u00fcxia is bound to the Female Lead Counterattack System and transmigrates to several small worlds",
+"url":"https:\/\/mangadex.tv\/manga\/manga-fj982744",
+"url_2":"https:\/\/mangafast.net\/read\/cheating-men-must-die\/",
+"url_3":"https:\/\/manhuanelo.com\/read\/cheating-men-must-die",
+"url_4":"",
+"img":"https:\/\/mangadex.tv\/mangaimage\/manga-fj982744.jpg",
+"genres":"Action Adventure Fantasy Romance Science fiction popular",
+"lastest":"231",
+"top":"80",
+"japan":"0"
+}
+]
     }
   ],
   "status": true,
